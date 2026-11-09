@@ -1,0 +1,133 @@
+[
+  {
+    "skill": "python",
+    "city": "Paris",
+    "periodDays": 30,
+    "postingsAnalyzed": 108,
+    "postingsWithRate": 69,
+    "tjmMin": 350,
+    "tjmP25": 450,
+    "tjmMedian": 500,
+    "tjmP75": 550,
+    "tjmMax": 750,
+    "tjmAvg": 503,
+    "remoteShare": 0.70,
+    "avgDurationMonths": 5.4,
+    "topCompanies": [
+      "CGI",
+      "Sopra Steria",
+      "Capgemini",
+      "Alten",
+      "Devoteam"
+    ],
+    "sampleUrls": [
+      "https://www.free-work.com/fr/tech-it/data-engineer/job-mission/data-engineer-python-paris",
+      "https://www.free-work.com/fr/tech-it/developpeur-python/job-mission/developpeur-backend-python-django"
+    ],
+    "computedAt": "2026-11-08T09:12:41+01:00"
+  },
+  {
+    "skill": "python",
+    "city": "Lyon",
+    "periodDays": 30,
+    "postingsAnalyzed": 7,
+    "postingsWithRate": 4,
+    "tjmMin": 400,
+    "tjmP25": 415,
+    "tjmMedian": 423,
+    "tjmP75": 431,
+    "tjmMax": 460,
+    "tjmAvg": 426,
+    "remoteShare": 0.86,
+    "avgDurationMonths": 6.0,
+    "topCompanies": [
+      "OCTO Technology",
+      "Sogeti",
+      "Micropole"
+    ],
+    "sampleUrls": [
+      "https://www.free-work.com/fr/tech-it/developpeur-python/job-mission/consultant-python-data-lyon"
+    ],
+    "computedAt": "2026-11-08T09:12:44+01:00"
+  },
+  {
+    "skill": "python",
+    "city": "France",
+    "periodDays": 30,
+    "postingsAnalyzed": 300,
+    "postingsWithRate": 204,
+    "tjmMin": 320,
+    "tjmP25": 425,
+    "tjmMedian": 475,
+    "tjmP75": 530,
+    "tjmMax": 780,
+    "tjmAvg": 481,
+    "remoteShare": 0.78,
+    "avgDurationMonths": 5.1,
+    "topCompanies": [
+      "CGI",
+      "Capgemini",
+      "Sopra Steria",
+      "Devoteam",
+      "Inetum"
+    ],
+    "sampleUrls": [
+      "https://www.free-work.com/fr/tech-it/data-engineer/job-mission/data-engineer-python-remote",
+      "https://www.free-work.com/fr/tech-it/developpeur-python/job-mission/lead-dev-python-fintech"
+    ],
+    "computedAt": "2026-11-08T09:12:47+01:00"
+  },
+  {
+    "skill": "react",
+    "city": "Paris",
+    "periodDays": 30,
+    "postingsAnalyzed": 142,
+    "postingsWithRate": 88,
+    "tjmMin": 330,
+    "tjmP25": 420,
+    "tjmMedian": 470,
+    "tjmP75": 520,
+    "tjmMax": 700,
+    "tjmAvg": 475,
+    "remoteShare": 0.74,
+    "avgDurationMonths": 4.7,
+    "topCompanies": [
+      "Alten",
+      "ODHCOM - FREELANCEREPUBLIK",
+      "Sopra Steria",
+      "Zenika",
+      "Theodo"
+    ],
+    "sampleUrls": [
+      "https://www.free-work.com/fr/tech-it/developpeur-front-end-javascript-node-react-angular-vue/job-mission/developpeur-react-fullstack-paris"
+    ],
+    "computedAt": "2026-11-08T09:12:51+01:00"
+  },
+  {
+    "skill": "devops",
+    "city": "France",
+    "periodDays": 30,
+    "postingsAnalyzed": 261,
+    "postingsWithRate": 171,
+    "tjmMin": 380,
+    "tjmP25": 480,
+    "tjmMedian": 540,
+    "tjmP75": 600,
+    "tjmMax": 820,
+    "tjmAvg": 548,
+    "remoteShare": 0.81,
+    "avgDurationMonths": 6.3,
+    "topCompanies": [
+      "GROUPE ARTEMYS",
+      "CGI",
+      "Devoteam",
+      "Inetum",
+      "Sopra Steria"
+    ],
+    "sampleUrls": [
+      "https://www.free-work.com/fr/tech-it/expert-infrastructures-cloud/job-mission/ingenieur-devops-kubernetes",
+      "https://www.free-work.com/fr/tech-it/expert-infrastructures-cloud/job-mission/devops-sre-remote"
+    ],
+    "computedAt": "2026-11-08T09:12:55+01:00"
+  }
+]
